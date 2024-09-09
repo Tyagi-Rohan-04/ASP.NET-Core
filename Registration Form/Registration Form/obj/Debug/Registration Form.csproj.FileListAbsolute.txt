@@ -1,0 +1,73 @@
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Registration Form.dll.config
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Registration Form.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Registration Form.pdb
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\csc.exe
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\csc.exe.config
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\csc.rsp
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\csi.exe
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\csi.exe.config
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\csi.rsp
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.AppContext.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Console.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.IO.Compression.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Net.Http.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.ValueTuple.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\vbc.exe
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\vbc.exe.config
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\vbc.rsp
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\VBCSCompiler.exe
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Antlr3.Runtime.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Newtonsoft.Json.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\System.Web.Optimization.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\WebGrease.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\System.Web.Optimization.xml
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Newtonsoft.Json.xml
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Antlr3.Runtime.pdb
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\obj\Debug\Registration Form.csproj.AssemblyReference.cache
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\obj\Debug\Registration Form.csproj.CoreCompileInputs.cache
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\obj\Debug\Registra.B6EF51E7.Up2Date
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\obj\Debug\Registration Form.dll
+C:\Users\tyagi\source\repos\Registration Form\Registration Form\obj\Debug\Registration Form.pdb
